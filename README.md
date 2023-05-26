@@ -76,11 +76,6 @@ Example request and response:
     }
 ```
 
-
-
-
-
-
 Run `mvn clean install`.
 Run `mvn test` to run tests and generate code coverage report (placed in: `/target/site/jacoco/index.html`, open in browser to view).
 Run "DiscounterApplication" class to start the server.
